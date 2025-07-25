@@ -1,7 +1,7 @@
 #syntax 
 
-x = int(input("enter your age"))
-if x>14 :
+x = (int(input("enter your age")))
+if x >= 14:
   print ("your are eligible for the game")
 
 else : 
