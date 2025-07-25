@@ -3,6 +3,7 @@ dots = "..........."
 
 #lstrip () method 
 
+
 print(name+dots)
 print(name.lstrip() + dots) #to remove left space 
 print(name.rstrip() + dots) #to remoce right and left space 
